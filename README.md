@@ -4,8 +4,9 @@
 
 This script needs to have some additional packages to be installed on your system to work. It will install these dependencies for you automatically. These dependencies are,
 
- **cowsay**
- **toilet**
+**cowsay**
+
+**toilet**
 
 > Hit **enter** or **y** for 'Yes' if it asks you to continue to install dependencies.
 
