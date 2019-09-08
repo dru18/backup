@@ -10,6 +10,6 @@ else
 
 of=backup$(date +%Y%m%d%s).tar.gz
 
-echo -e "Creating backup:\n\n$(tar -vczf $of $1)\n\nBackup done succesfully to $of." | cowsay -f tux | toilet -f term --gay
+echo -e "Creating backup:\n\n$(tar -vczf $of $1)\n\n[+]Backup done succesfully to $of." | cowsay -f tux | toilet -f term --gay
 
 fi
